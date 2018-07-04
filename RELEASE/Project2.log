@@ -1,6 +1,0 @@
-﻿  main.cpp
-  Generating code
-s:\documents\school\18sp\cs 260\projects\project 2\project2\main.cpp(149): warning C4715: 'playOneGame': not all control paths return a value
-  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Project2.vcxproj -> S:\Documents\School\18sp\CS 260\Projects\Project 2\Project2\Release\Project2.exe
